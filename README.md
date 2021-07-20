@@ -14,4 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=piny4man&button_colour=fec000&font_colour=000000&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00">](https://www.buymeacoffee.com/piny4man)
+
+- 🔭 I’m currently working on [@valudio](https://github.com/valudio/) and [Lablyze](https://www.lablyze.com/en/)
+- 🌱 I’m currently learning React advanced skills and Rust
+- ⚡ Fun fact: Sometimes I try to be a gaming streamer on twitch, come and say hi! twitch.tv/piny4man
