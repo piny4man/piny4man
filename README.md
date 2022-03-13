@@ -1,4 +1,4 @@
-### Hi there 👋 ![CodeWars](https://www.codewars.com/users/alberss/badges/large)
+### Hi there 👋 ![CodeWars](https://www.codewars.com/users/alberss/badges/micro)
 
 <!--
 **alberss/alberss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
