@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [@valudio](https://github.com/valudio/) and [Lablyze](https://www.lablyze.com/en/)
 - 🌱 I’m currently learning React advanced skills and Rust
-- ⚡ Fun fact: There is no active development here, You could find my development experiments on [git.pinya.dev](https://git.pinya.dev)
+- ⚡ Fun fact: There is no active development here, You could find my development experiments on [git.pinya.dev](https://git.pinya.dev/explore)
