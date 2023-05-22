@@ -1,13 +1,13 @@
 # Alberto Mendez ![CodeWars](https://www.codewars.com/users/alberss/badges/micro)
 
-👋 Hi, I'm Alberto. I am a Senior Software Engineer at [Valudio](https://www.valudio.com/) and [Lablyze](https://www.lablyze.com/en/).
+👋 Hi, I'm Alberto. I am a Frontend Engineer at [vidIQ](https://vidiq.com/).
 
 ## About Me
 
 - 🔭 I’m currently working on some Rust side projects, you can found it on my profile repositories. 
 - 🌱 I’m currently learning React advanced skills, Rust lang development focusing first web development and also cybersecurity
 - 📫 How to reach me: `hello@pinya.dev`
-- ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man)
+- ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man). If you want to see past live streams visit my [Youtube channel](https://www.youtube.com/@piny4man).
 
 ## 🔧 Tools/Languages I Like To Use
 
