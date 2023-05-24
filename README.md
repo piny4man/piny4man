@@ -33,4 +33,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Piny4man's GitHub stats](https://github-readme-stats.vercel.app/api?username=piny4man&show_icons=true&theme=radical)
+![Piny4man's GitHub stats](https://github-readme-stats.vercel.app/api?username=piny4man&show_icons=true&count_private=true&theme=radical)
+![Piny4man's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piny4man&show_icons=true&count_private=true&layout=donut&theme=radical)
