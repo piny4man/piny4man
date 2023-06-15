@@ -1,6 +1,6 @@
 # Alberto Mendez ![CodeWars](https://www.codewars.com/users/alberss/badges/micro)
 
-👋 Hi, I'm Alberto. I am a Frontend Engineer at [vidIQ](https://vidiq.com/).
+👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
 ## About Me
 
@@ -32,5 +32,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Piny4man's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=piny4man&show_icons=true&count_private=true&layout=donut&theme=radical)
