@@ -16,7 +16,6 @@
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next](https://nextjs.org/)
 - [styled-components](https://styled-components.com/)
-- [Nestjs](https://nestjs.com/)
 
 <!--
 **alberss/alberss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
