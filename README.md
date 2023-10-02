@@ -1,4 +1,4 @@
-# Alberto Mendez ![CodeWars](https://www.codewars.com/users/alberss/badges/micro)
+# Alberto Mendez ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro)
 
 👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
