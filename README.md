@@ -18,7 +18,7 @@
 - [styled-components](https://styled-components.com/)
 
 <!--
-**alberss/alberss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**piny4man/piny4man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
