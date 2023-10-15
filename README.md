@@ -15,7 +15,7 @@
 - [Rust](https://www.rust-lang.org/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [Next](https://nextjs.org/)
-- [styled-components](https://styled-components.com/)
+- [Svelte](https://svelte.dev/)
 
 <!--
 **piny4man/piny4man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
