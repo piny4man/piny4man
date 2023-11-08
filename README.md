@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on some Rust side projects, you can found it on my profile repositories. 
 - 🌱 I’m currently learning React advanced skills, Rust lang development focusing first web development and also cybersecurity
 - 📫 How to reach me: `hello@pinya.dev`
-- ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man). If you want to see past live streams visit my [Odysee channel](https://odysee.com/$/latest/@Piny4man).
+- ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man)
 
 ## 🔧 Tools/Languages I Like To Use
 
