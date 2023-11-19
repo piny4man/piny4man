@@ -2,7 +2,6 @@
 
 👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=piny4man&theme=slateorange)
 
 ## About Me
 
