@@ -1,4 +1,4 @@
-# Alberto Mendez ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=LiveStream&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple)
+# Alberto Mendez ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple)
 
 👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
