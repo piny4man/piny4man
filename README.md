@@ -2,11 +2,11 @@
 
 👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
-
 ## About Me
 
-- 🔭 I’m currently working on some Rust side projects, you can found it on my profile repositories. 
-- 🌱 I’m currently learning React advanced skills, Rust lang development focusing first web development and also cybersecurity
+- 🔭 I’m currently developing Rust projects in my spare time. You can find them on my profile repositories
+- 🌱 I’m currently learning advanced Frontend skills and Rust development, with a focus on web development
+- 🛡️ Strongly interested in maintaining privacy and cybersecurity
 - 📫 How to reach me: `hello@pinya.dev`
 - ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man) and I upload my past live streams to [Youtube](https://www.youtube.com/@piny4man)
 
