@@ -12,11 +12,11 @@
 
 ## 🔧 Tools/Languages I Like To Use
 
-- [React](https://react.dev/)
-- [Rust](https://www.rust-lang.org/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Next](https://nextjs.org/)
-- [Svelte](https://svelte.dev/) + [SvelteKit](https://kit.svelte.dev/)
+- [React](https://react.dev/)⚛️
+- [Rust](https://www.rust-lang.org/)⚙️
+- [TypeScript](https://www.typescriptlang.org/)🪄
+- [Next](https://nextjs.org/)🔺
+- [Svelte](https://svelte.dev/) + [SvelteKit](https://kit.svelte.dev/)🧡
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7ND0UU) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple) ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro) 
 <!--
