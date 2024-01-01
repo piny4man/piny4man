@@ -1,6 +1,6 @@
 # Alberto Mendez 🦀 🏴‍☠️ 🍍
 
-👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/)
+👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
 ## About Me
 
