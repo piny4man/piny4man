@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Alberto. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
 
-## About Me
+## 🥸 About Me
 
 - 🔭 I’m currently developing Rust projects in my spare time. You can find them on my profile repositories
 - 🌱 I’m currently learning advanced Frontend skills and Rust development, with a focus on web development
