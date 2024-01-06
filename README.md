@@ -10,7 +10,7 @@
 - 📫 How to reach me: `hello@pinya.dev`
 - ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man) and I upload my past live streams to [Youtube](https://www.youtube.com/@piny4man)
 
-## 🔧 Tools/Languages I Like To Use
+## 🧰 Tools/Languages I Like To Use
 
 - [React](https://react.dev/)
 - [Rust](https://www.rust-lang.org/)
