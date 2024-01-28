@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning advanced Frontend skills and Rust development, with a focus on web development
 - 🛡️ Strongly interested in maintaining privacy and cybersecurity
 - 📫 How to reach me: `hello@pinya.dev`
-- ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man) and I upload my past live streams to [Youtube](https://www.youtube.com/@piny4man)
+<!-- - ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man) and I upload my past live streams to [Youtube](https://www.youtube.com/@piny4man) -->
 
 ## 🧰 Tools/Languages I Like To Use
 
