@@ -1,6 +1,6 @@
 # Piny4man 🦀 🏴‍☠️ 🍍
 
-👋 Hi, I'm Piny4man. I am CEO at @TiendaCables.
+👋 Hi, I'm Piny4man. I am CEO at [TiendaCables](https://www.tiendacables.com).
 
 ## 🥸 About Me
 
