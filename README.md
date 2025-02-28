@@ -1,6 +1,6 @@
 # Piny4man 🦀 🏴‍☠️ 🍍
 
-👋 Hi, I'm Piny4man. I work as Frontend Engineer at [vidIQ](https://vidiq.com/).
+👋 Hi, I'm Piny4man. I am CEO at @TiendaCables.
 
 ## 🥸 About Me
 
