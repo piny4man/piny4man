@@ -12,7 +12,7 @@
 ## 🧰 Tools/Languages I Like To Use
 
 - [Rust](https://www.rust-lang.org/)
-- [Svelte](https://svelte.dev/) + [SvelteKit](https://kit.svelte.dev/)
+- [Remix](https://remix.run/)
 - [TypeScript](https://www.typescriptlang.org/)
 - [React](https://react.dev/)
 - [Next](https://nextjs.org/)
