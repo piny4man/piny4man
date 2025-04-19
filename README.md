@@ -13,9 +13,6 @@
 
 - [Rust](https://www.rust-lang.org/)
 - [Remix](https://remix.run/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [React](https://react.dev/)
-- [Next](https://nextjs.org/)
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7ND0UU) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple) ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro) 
 
