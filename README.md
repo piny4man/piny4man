@@ -14,7 +14,7 @@
 - [Rust](https://www.rust-lang.org/)
 - [Remix](https://remix.run/)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7ND0UU) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple) ![CodeWars](https://www.codewars.com/users/piny4man/badges/micro) 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7ND0UU) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple)
 
 <!--
 **piny4man/piny4man** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
