@@ -8,11 +8,12 @@
 - 🛡️ Strongly interested in maintaining privacy and cybersecurity
 - 📫 How to reach me: `hello@pinya.dev`
 <!-- - ⚡ Sometimes I code live on [Twitch](https://twitch.tv/piny4man) and I upload my past live streams to [Youtube](https://www.youtube.com/@piny4man) -->
-
+<!--
 ## 🧰 Tools/Languages I Like To Use
 
 - [Rust](https://www.rust-lang.org/)
 - [Remix](https://remix.run/)
+-->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J7ND0UU) ![Twitch](https://img.shields.io/twitch/status/piny4man?label=Twitch&style=for-the-badge&logo=twitch&logoColor=white&color=mediumpurple)
 
